@@ -21,6 +21,11 @@ pod "DeviceUniqueId"
 ```
 
 ## How to use
+Import header file
+```objc
+#import "DeviceUniqueId.h"
+```
+
 Call this method to get device unique id.
 ```objc
 [DeviceUniqueId getUniqueId];

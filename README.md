@@ -20,6 +20,12 @@ it, simply add the following line to your Podfile:
 pod "DeviceUniqueId"
 ```
 
+## How to use
+Call this method to get device unique id.
+```objc
+[DeviceUniqueId getUniqueId];
+```
+
 ## Author
 
 Kittisak Phetrungnapha, cs.sealsoul@gmail.com

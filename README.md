@@ -21,6 +21,10 @@ pod "DeviceUniqueId", "~> 1.0"
 ```
 
 ## How to use
+Import header file
+```objc
+#import "DeviceUniqueId.h"
+```
 
 Call this method to get device unique id.
 ```objc

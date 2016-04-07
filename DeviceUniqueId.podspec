@@ -17,7 +17,7 @@ Pod::Spec.new do |s|
 #   * Write the description between the DESC delimiters below.
 #   * Finally, don't worry about the indent, CocoaPods strips it!  
   s.description      = <<-DESC
-                            This CocoaPod provides the ability to generate iOS unique device id that persists between app reinstalls.
+                            This CocoaPods provides the ability to generate iOS unique device id that persists between app reinstalls.
                        DESC
 
   s.homepage         = "https://github.com/csnu17/DeviceUniqueId"

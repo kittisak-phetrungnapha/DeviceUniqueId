@@ -1,6 +1,0 @@
-framework module DeviceUniqueId {
-  umbrella header "DeviceUniqueId-umbrella.h"
-
-  export *
-  module * { export * }
-}

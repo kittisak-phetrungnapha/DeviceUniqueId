@@ -1,5 +1,5 @@
 PODS:
-  - DeviceUniqueId (0.1.0)
+  - DeviceUniqueId (1.0.0)
 
 DEPENDENCIES:
   - DeviceUniqueId (from `../`)
@@ -9,6 +9,8 @@ EXTERNAL SOURCES:
     :path: "../"
 
 SPEC CHECKSUMS:
-  DeviceUniqueId: b3f96fd010c5650fffed66043b25c71d8b258cf4
+  DeviceUniqueId: 76145723165f0a60372b672946f3a75a33da8436
 
-COCOAPODS: 0.39.0
+PODFILE CHECKSUM: ddaa6f79c36cb04640b34618b41851d94c498dd7
+
+COCOAPODS: 1.0.0.beta.6

@@ -1,6 +1,0 @@
-framework module Pods_DeviceUniqueId_Tests {
-  umbrella header "Pods-DeviceUniqueId_Tests-umbrella.h"
-
-  export *
-  module * { export * }
-}

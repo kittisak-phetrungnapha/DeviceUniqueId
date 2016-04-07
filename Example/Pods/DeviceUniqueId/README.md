@@ -1,6 +1,6 @@
 # DeviceUniqueId
 
-<!--[![CI Status](http://img.shields.io/travis/Kittisak Phetrungnapha/DeviceUniqueId.svg?style=flat)](https://travis-ci.org/Kittisak Phetrungnapha/DeviceUniqueId)-->
+[![CI Status](http://img.shields.io/travis/Kittisak Phetrungnapha/DeviceUniqueId.svg?style=flat)](https://travis-ci.org/Kittisak Phetrungnapha/DeviceUniqueId)
 [![Version](https://img.shields.io/cocoapods/v/DeviceUniqueId.svg?style=flat)](http://cocoapods.org/pods/DeviceUniqueId)
 [![License](https://img.shields.io/cocoapods/l/DeviceUniqueId.svg?style=flat)](http://cocoapods.org/pods/DeviceUniqueId)
 [![Platform](https://img.shields.io/cocoapods/p/DeviceUniqueId.svg?style=flat)](http://cocoapods.org/pods/DeviceUniqueId)

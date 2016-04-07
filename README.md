@@ -17,10 +17,11 @@ DeviceUniqueId is available through [CocoaPods](http://cocoapods.org). To instal
 it, simply add the following line to your Podfile:
 
 ```ruby
-pod "DeviceUniqueId"
+pod "DeviceUniqueId", "~> 1.0"
 ```
 
 ## How to use
+
 Call this method to get device unique id.
 ```objc
 [DeviceUniqueId getUniqueId];

@@ -7,12 +7,14 @@
 //
 
 #import "DeviceUniqueIdAppDelegate.h"
+#import "DeviceUniqueId.h"
 
 @implementation DeviceUniqueIdAppDelegate
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions
 {
     // Override point for customization after application launch.
+    NSLog(@"Device Unique Id: %@", [DeviceUniqueId getUniqueId]);
     return YES;
 }
 

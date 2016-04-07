@@ -1,0 +1,12 @@
+source 'https://github.com/CocoaPods/Specs.git'
+use_frameworks!
+
+target 'DeviceUniqueId_Example', :exclusive => true do
+  pod 'DeviceUniqueId', :path => '../'
+end
+
+target 'DeviceUniqueId_Tests', :exclusive => true do
+  pod 'DeviceUniqueId', :path => '../'
+
+  
+end

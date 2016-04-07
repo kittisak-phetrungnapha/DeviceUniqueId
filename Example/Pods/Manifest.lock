@@ -1,0 +1,14 @@
+PODS:
+  - DeviceUniqueId (0.1.0)
+
+DEPENDENCIES:
+  - DeviceUniqueId (from `../`)
+
+EXTERNAL SOURCES:
+  DeviceUniqueId:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  DeviceUniqueId: b3f96fd010c5650fffed66043b25c71d8b258cf4
+
+COCOAPODS: 0.39.0
